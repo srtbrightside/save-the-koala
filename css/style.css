@@ -2,3 +2,111 @@
 wood brown: A89F68;
 army green: 41521F;
 */
+.texto-bienvenida {
+    padding: 16em 2em;
+    color: white;
+    font-style: italic;
+}
+.seccion-01 {
+    background-image: url(../img/portada.jpg);
+    height: 700px;
+    background-size: cover;
+}
+.navbar-brand {
+    color: white;
+    font-size: 20px;
+    margin-left: 110px;
+    font-style: italic;
+}
+ul a {
+    color: white;
+    font-size: 15px;
+    font-style: italic;
+}
+#bienvenida .btn-default {
+    background-color: #41521F;
+    border: none;
+    color: white;
+}
+#bienvenida .btn-default:hover {
+    background-color: gray;
+}
+#informacion {
+    margin: 2em auto;
+}
+.imagen-full {
+    width: 100%;
+}
+.titulo-info {
+    color: grey;
+    font-size: 2em;
+    font-weight: 700;
+}
+.encabezado-info {
+    color: #A89F68;
+    font-weight: 700;
+}
+.subtitulo-info {
+    color: #A89F68;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+#informacion p {
+    color: grey;
+}
+#informacion a {
+    color: #A89F68;
+    font-weight: 700;
+}
+#save {
+    background-color: #A89F68;
+    padding: 9em 0;
+}
+#save img {
+    width: 100%;
+    border: solid 8px whitesmoke;
+}
+.titulo-save {
+    color: white;
+    font-size: 2em;
+    font-weight: 700;
+    padding-bottom: 1em;
+}
+.subtitulo-save {
+    color: #41521F;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+#save p {
+    color: white;
+}
+#save .btn-default {
+    background-color: #41521F;
+    border: none;
+    color: white;
+}
+#save .btn-default:hover {
+    background-color: grey;
+}
+.texto-save {
+    margin-top: -30px;
+}
+.seccion-04 {
+    background-image: url(../img/all.jpg);
+    height: 700px;
+    background-size: cover;
+    padding: 8em 0;
+    color: white;
+}
+.comillas {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: 700;
+    text-shadow: none;
+}
+.seccion-04 h3 {
+    font-size: 2em;
+}
+h4 {
+    margin-left: 15px;
+}
